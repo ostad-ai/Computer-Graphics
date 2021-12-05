@@ -5,3 +5,4 @@ Here, we provide programs related to the field of Computer Graphics
 3) Illumination models and surface reflections in Python
 4) Triangle and Barycentric Coordinates in Python 
 5) Barycentric coordinates for triangle and texture mapping in Python 
+6) Point in polygon: Even-odd rule for inside-outside test for polygons in Python  
