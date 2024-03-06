@@ -9,3 +9,4 @@ Here, we provide programs related to the field of Computer Graphics
 7) Texture mapping for quadrilaterals using inverse bilinear interpolation in Python 
 8) Two-dimensional metaballs in Python
 9) Chaos Game for Iterated Function System (IFS) 
+10) The mandelbrot set is a well-known fractal, which is based on a recursive complex function. Here, we review the formulation. Then, two versions of implementing the set with Python are provided.
