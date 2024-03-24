@@ -12,3 +12,4 @@ Here, we provide programs related to the field of Computer Graphics
 10) The mandelbrot set is a well-known fractal, which is based on a recursive complex function. Here, we review the formulation. Then, two versions of implementing the set with Python are provided.
 11) The julia set is another famous fractal, which follows the behaviour of iterated functions. Here, we display the Julia set for a quadratic complex function. The Python code has two versions: a slow one and a fast one.
 12) Elementary cellular automatom: Elementary CA is used to create some patterns which are interesting. Here, we review these types of CA with Python code.
+13) Two-dimensional cellular automata are mentioned here. 2D CAs are used for creating patterns and simulating some simple life forms. Here, Python codes are used to creating some patterns with CAs.
