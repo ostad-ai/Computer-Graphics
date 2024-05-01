@@ -13,3 +13,4 @@ Here, we provide programs related to the field of Computer Graphics
 11) The julia set is another famous fractal, which follows the behaviour of iterated functions. Here, we display the Julia set for a quadratic complex function. The Python code has two versions: a slow one and a fast one.
 12) Elementary cellular automatom: Elementary CA is used to create some patterns which are interesting. Here, we review these types of CA with Python code.
 13) Two-dimensional cellular automata are mentioned here. 2D CAs are used for creating patterns and simulating some simple life forms. Here, Python codes are used to creating some patterns with CAs.
+14) Perlin noise from scratch: We review Perlin noise and then implement it in Python. Perlin noise is used in Computer Graphics for creating terrains, mountains, clouds, and etc.
