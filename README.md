@@ -15,4 +15,4 @@ Here, we provide programs related to the field of Computer Graphics
 13) **Two-dimensional cellular automata** are mentioned here. 2D CAs are used for creating patterns and simulating some simple life forms. Here, Python codes are used to creating some patterns with CAs.
 14) **Perlin noise from scratch:** We review Perlin noise and then implement it in Python. Perlin noise is used in Computer Graphics for creating terrains, mountains, clouds, and etc.
 15) **Line segments and their intersections:** A *line segment* is a part of a *line* limited by two *endpoints*. Here, we review the *parametric form* of line segments and express the formulas to compute the intersection points of line segments.
-16) **Circles and their intersections:** Three forms for representing circles are mentioned here. Based on the *Cartesian coordinates* form of circles, we state the formulas to find the intersection points between circle.
+16) **Circles and their intersections:** Three forms for representing circles are mentioned here. Based on the *Cartesian coordinates* form of circles, we state the formulas to find the intersection points between circles.
